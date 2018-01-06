@@ -5,7 +5,6 @@ A program that once compiled creates an executable file, primegap. What primegap
 Sample run:
 
     ./primegap
-
     Usage: ./primegap a b
 
     ./primegap 0 10
