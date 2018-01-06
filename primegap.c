@@ -33,6 +33,4 @@ return ans;
 
 /*Output for ./primegap 2 1000000000:
 Largest prime gap in [2, 1000000000] is 282
-computed in 7.1e+02 seconds
-
-Run on personal computer*/
+computed in 7.1e+02 seconds*/
