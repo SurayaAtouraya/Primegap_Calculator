@@ -3,8 +3,8 @@
 #include <gmp.h>
 
 
-/* primeGap takes to integers, a and b of time mpz_t and returns the
-   largest prime gap in the interval [a,b]. If no such a gap, primeGap
+/* primeGap takes two integers, a and b of time mpz_t and returns the
+   largest prime gap in the interval [a,b]. If no such gap, primeGap
    returns 0. */
 extern unsigned long primeGap(const mpz_t a, const mpz_t b);
 extern double getTime();
