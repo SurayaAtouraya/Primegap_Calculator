@@ -8,4 +8,3 @@ double getTime() {
   time = usage.ru_utime;
   return time.tv_sec+time.tv_usec/1e6;
 }
-
